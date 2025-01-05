@@ -1,0 +1,5 @@
+MESSAGE ll has joined
+MESSAGE mm has joined
+MESSAGE ll: k
+MESSAGE mm has left
+MESSAGE ll has left

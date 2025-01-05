@@ -1,0 +1,37 @@
+MESSAGE zz: halo
+MESSAGE zz: test
+MESSAGE zz: halo
+MESSAGE zz: halo
+MESSAGE zz: halo
+MESSAGE zz: haol
+MESSAGE zz: halo
+MESSAGE hh: halo 
+MESSAGE zz: hai
+MESSAGE hh has left
+MESSAGE zz has left
+MESSAGE zz: test 123
+MESSAGE hh: test 234
+MESSAGE hh has left
+MESSAGE zz has left
+MESSAGE hh: test
+MESSAGE zz: halo
+MESSAGE zz: sdasdasd
+MESSAGE hh: asdadad
+MESSAGE hh has left
+MESSAGE hh has left
+MESSAGE hh has left
+MESSAGE hh: testttt
+MESSAGE zz: masuk
+MESSAGE hh: test
+MESSAGE hh: test
+MESSAGE hh has left
+MESSAGE zz: halo
+MESSAGE hh: oooooooooooooooooooo
+MESSAGE hh has left
+MESSAGE hh: ..
+MESSAGE hh: ..
+MESSAGE hh: .
+MESSAGE hh has left
+MESSAGE hh: ..
+MESSAGE hh: test
+MESSAGE hh has left

@@ -1,0 +1,91 @@
+MESSAGE zz: test
+MESSAGE hh: halo
+MESSAGE zz: haii
+MESSAGE hh: tetst
+MESSAGE hh has left
+MESSAGE hh: halo
+MESSAGE zz: halo
+MESSAGE hh: halo
+MESSAGE zz has left
+MESSAGE hh has left
+MESSAGE hh: test
+MESSAGE zz: masuk
+MESSAGE hh has left
+MESSAGE hh: halo
+MESSAGE zz: hai
+MESSAGE hh has left
+MESSAGE hh: halo
+MESSAGE hh has left
+MESSAGE zz: halooooooooooooooooooooooo
+MESSAGE hh has left
+MESSAGE zz: 123456
+MESSAGE hh has left
+MESSAGE hh has left
+MESSAGE hh has joined
+MESSAGE hh has joined
+MESSAGE hh has joined
+MESSAGE hh: test
+MESSAGE zz has joined
+MESSAGE zz has joined
+MESSAGE zz: test
+MESSAGE hh: test
+MESSAGE hh: test
+MESSAGE zz: test
+MESSAGE hh has left
+MESSAGE hh has joined
+MESSAGE hh has joined
+MESSAGE hh: test
+MESSAGE zz: test
+MESSAGE hh: test
+MESSAGE hh has joined
+MESSAGE hh: test
+MESSAGE hh has joined
+MESSAGE hh: masuk
+MESSAGE hh: test
+MESSAGE zz has joined
+MESSAGE hh has joined
+MESSAGE zz has joined
+MESSAGE hh: test
+MESSAGE zz has left
+MESSAGE zz has joined
+MESSAGE hh: test
+MESSAGE zz: halo
+MESSAGE hh: halo
+MESSAGE hh has joined
+MESSAGE zz has joined
+MESSAGE zz has left
+MESSAGE hh has left
+MESSAGE hh has joined
+MESSAGE hh has joined
+MESSAGE hh: testt
+MESSAGE hh: .
+MESSAGE hh: .
+MESSAGE hh has joined
+MESSAGE hh: ...
+MESSAGE hh: /p
+MESSAGE hh: ..
+MESSAGE hh has left
+MESSAGE hh has joined
+MESSAGE hh: .
+MESSAGE hh: test1
+MESSAGE hh: test2
+MESSAGE hh: test3
+MESSAGE hh: test3
+MESSAGE hh: test3
+MESSAGE hh: test4
+MESSAGE hh: test5
+MESSAGE hh has left
+MESSAGE hh has joined
+MESSAGE hh: test6
+MESSAGE hh has joined
+MESSAGE hh: t
+MESSAGE hh: t
+MESSAGE hh: p
+MESSAGE hh: p
+MESSAGE zz has joined
+MESSAGE zz: p
+MESSAGE zz: p
+MESSAGE zz: p
+MESSAGE zz: p
+MESSAGE zz: p
+MESSAGE zz has left
